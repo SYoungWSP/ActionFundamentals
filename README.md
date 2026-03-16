@@ -1,4 +1,4 @@
-# GitHub Actions Fundamentals - Modified
+# GitHub Actions Fundamentals - Modified - Skip CI
 
 Repo for the `GitHub Actions Fundamentals` training.
 

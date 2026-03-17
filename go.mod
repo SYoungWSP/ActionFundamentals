@@ -1,3 +1,3 @@
-module github-actions-demo
+module ActionFundamentals
  
 go 1.21
